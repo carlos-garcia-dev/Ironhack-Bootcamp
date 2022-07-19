@@ -11,6 +11,8 @@
 
 ![project2-LineApp_main](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/project2-LineApp_00.jpg)
 
+</br>
+
 ## Introduction
 
 The main idea at the creation of this application was to build a service for musical events so as it could be used as reference by the user to attend music performances and support their favourite artists.

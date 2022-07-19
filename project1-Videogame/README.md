@@ -11,6 +11,8 @@
   <strong>Remake of a videogame to learn OOP and Classes</strong>
 </div>
 
+</br>
+
 ## Introduction
 
 First project we finished at the module 1 in Ironhack its main purpose was to get familiar with the _Object Oriented Programming principles_ - OOP and _Class Programming_ with Vanilla JavaScript ES6+ and Canvas.

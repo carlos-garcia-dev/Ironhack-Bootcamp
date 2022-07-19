@@ -9,6 +9,8 @@
   <strong>Single Page Application blog about technology including a CRUD and a noSQL database</strong>
 </div>
 
+</br>
+
 ## Introduction
 
 The project was a blog focused on knowledge sharing between different disciplines of technology: web-development, data-science, UX/UI design and cybersecurity. It was the third project of the Bootcamp of a _SPA Full-stack_ blog CRUD including a noSQL database and different roles and populated collections.
@@ -24,28 +26,32 @@ The project was made by _Carlos García_.
 
 ## Technologies
 
-<p align="center">
-    <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
-    <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
-    <img align="left" alt="ReactJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
-    <img align="left" alt="NodeJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
-    <img align="left" alt="JavaScript" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
-    <img align="left" alt="HTML5" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
-    <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
-    <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
-</p>
+<div>
+    <p align="center">
+        <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
+        <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
+        <img align="left" alt="ReactJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
+        <img align="left" alt="NodeJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
+        <img align="left" alt="JavaScript" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
+        <img align="left" alt="HTML5" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
+        <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
+        <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
+    </p>
+</div>
 
 </br>
 
-<p align="center">    
-    <img align="left" alt="Postman" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
-    <img align="left" alt="SaSS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
-    <img align="left" alt="Bootstrap" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
-    <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
-    <img align="left" alt="GitHub" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
-    <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
-    <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
-</p>
+<div>
+    <p align="center">    
+        <img align="left" alt="Postman" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
+        <img align="left" alt="SaSS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
+        <img align="left" alt="Bootstrap" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
+        <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
+        <img align="left" alt="GitHub" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
+        <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
+        <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
+    </p>
+</div>
 
 ## Project
 
