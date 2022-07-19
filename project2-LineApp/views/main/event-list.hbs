@@ -1,0 +1,82 @@
+<header class="container frame">
+    <div class="row">
+        <div class="col-md-6">
+            <h2>Eventos</h2>
+        </div>
+        <div class="col-md-6">
+
+            <a class="btn btn-outline-dark rounded-0 align-items-end button-top" href="/new-event">Crear evento</a>
+        </div>
+    </div>
+</header>
+
+
+<figure class="col-md-12" id="map"></figure>
+
+
+<section class="container container-fluid">
+
+    <div class="row">
+
+        <div class="col-10 justify-content-right"></div>
+
+
+
+        {{#each allEvents}}
+        <div class="col-md-12">
+            <img src="{{pictureUrl}}" class="event-view" alt="{{name}} imagen">
+        </div>
+
+        <div class="row">
+
+            <div class="column col-md-4 center-frame">
+                <a href="/edit/{{id}}'">
+                    <h3><a href="/details/{{id}}">{{name}}</a></h3>
+                </a>
+                <h5>{{description}}</h5> <a class="genre">{{genre}}</a>
+                <p>Duración {{duration}} mins</p>
+            </div>
+
+            <div class="column col-md-4">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt nam repudiandae voluptatum adipisci
+                    perferendis commodi praesentium recusandae voluptatibus nemo. Debitis perspiciatis saepe soluta
+                    tempore quod.
+                </p>
+            </div>
+
+            <div class="column">
+
+                <aside class="column col-md-3">
+
+                    {{#if ../isAdmin}}
+                    <p><a class="btn btn-outline-dark rounded-0" href="/edit/{{id}}">Editar</a></p>
+                    <p><a class="btn btn-outline-danger rounded-0" href="/delete/{{id}}">Borrar</a></p>
+                    {{/if}}
+
+
+                </aside>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        {{/each}}
+
+
+
+    </div>
+    </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.0/axios.min.js"></script>
+<script src="./javascripts/styles.js"></script>
+<script src="./javascripts/map.js"></script>
+
+<script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA69CUKwfnNt9AXiX5Wy6Xqj6StJVEJww&callback=initApp"></script>
