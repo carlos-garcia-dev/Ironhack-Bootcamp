@@ -34,12 +34,11 @@ The project was made by _Maria Luisa Santos_ and _Carlos García_.
     <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
 </section>
 
+</br>
+
 ## Project
 
 One of the _pain points_ of the project was the creation of the building a clear and solid database so it could be easily accessed for all the different three roles: user, partner and admin.
-
-<!-- ![project2-LineApp_image01](/path/to/train.jpg) -->
-<!-- ![project2-LineApp_image02](/path/to/train.jpg) -->
 
 ## Routes
 

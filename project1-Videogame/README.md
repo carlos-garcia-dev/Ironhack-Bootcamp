@@ -1,6 +1,6 @@
 # Game Hotline - Module 1
 
-![project1-Game_00](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/project1-Game_00.jpg)
+![project1-Game_00](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_00.jpg)
 
 ## Introduction
 
@@ -12,11 +12,11 @@ The project was made by _Carlos Dávila_ and _Carlos García_.
 
 One of the pain points of the project was to solve the difficulty of how the shots are oriented and follow and specific direction according to the mouse-click. It was crucial for a better experience and more natural collisions.
 
-![project1-Game_01](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/project1-Game_01.jpg)
+![project1-Game_01](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_01.jpg)
 
 ### Example
 
-![project1-Game_animation](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/project1-Game_animation.gif)
+![project1-Game_animation](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_animation.gif)
 
 ## Controls
 
