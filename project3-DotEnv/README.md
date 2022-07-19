@@ -1,6 +1,13 @@
-# DotEnv - Module 3
-
-![project3-DotEnv_main](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project3-DotEnv/project3-DotEnv_00.jpg)
+<div align="center">
+    <img 
+        alt="project3-DotEnv_main"
+        width="200px"
+        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project3-DotEnv/project3-DotEnv_00.jpg" />
+</div>
+<div align="center">
+  <h1>DotEnv - Module 3</h1>
+  <strong>Single Page Application blog about technology including a CRUD and a noSQL database</strong>
+</div>
 
 ## Introduction
 
@@ -17,7 +24,7 @@ The project was made by _Carlos García_.
 
 ## Technologies
 
-<section>
+<p align="center">
     <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
     <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
     <img align="left" alt="ReactJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
@@ -26,11 +33,6 @@ The project was made by _Carlos García_.
     <img align="left" alt="HTML5" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
     <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
     <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
-</section>
-
-</br>
-
-<section>
     <img align="left" alt="Postman" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
     <img align="left" alt="SaSS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
     <img align="left" alt="Bootstrap" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
@@ -38,9 +40,7 @@ The project was made by _Carlos García_.
     <img align="left" alt="GitHub" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
     <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
     <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
-</section>
-
-</br>
+</p>
 
 ## Project
 

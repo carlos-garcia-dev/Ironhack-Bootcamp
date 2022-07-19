@@ -1,6 +1,15 @@
-# Game Hotline - Module 1
-
-![project1-Game_00](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_00.jpg)
+<div align="center">
+    <a href="https://www.ironhack.com/">
+        <img 
+            alt="Ironhack"
+            width="200px"
+            src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/00-Bootcamp/ironhack-logo.png" />
+    </a>
+</div>
+<div align="center">
+  <h1>Videogame - Module 1</h1>
+  <strong>Remake of a videogame to learn OOP and Classes</strong>
+</div>
 
 ## Introduction
 
@@ -9,6 +18,8 @@ It was a remake of a top-down shooter videogame which it is focused on constant 
 The project was made by _Carlos Dávila_ and _Carlos García_.
 
 ## Project
+
+![project1-Game_00](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_00.jpg)
 
 One of the pain points of the project was to solve the difficulty of how the shots are oriented and follow and specific direction according to the mouse-click. It was crucial for a better experience and more natural collisions.
 

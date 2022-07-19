@@ -1,4 +1,13 @@
-# LineApp - Module 2
+<div align="center">
+    <img 
+        alt="project2-LineApp_main"
+        width="200px"
+        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project3-DotEnv/project3-DotEnv_logo.png" />
+</div>
+<div align="center">
+  <h1>LineApp - Module 2</h1>
+  <strong>Full-stack music plattform for streamings and events</strong>
+</div>
 
 ![project2-LineApp_main](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/project2-LineApp_00.jpg)
 
@@ -19,7 +28,7 @@ The project was made by _Maria Luisa Santos_ and _Carlos García_.
 
 ## Technologies
 
-<section>
+<p align="center">
     <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
     <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
     <img align="left" alt="NodeJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
@@ -32,9 +41,7 @@ The project was made by _Maria Luisa Santos_ and _Carlos García_.
     <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
     <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
     <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
-</section>
-
-</br>
+</p>
 
 ## Project
 
