@@ -76,5 +76,5 @@ One of the pain points of the project was to solve the difficulty of how the sho
 
 ## Installation
 
-- 1. Clone or download the repository
-- 2. Execute the archive: `index.html`
+1. Clone or download the repository
+2. Execute the archive: `index.html`

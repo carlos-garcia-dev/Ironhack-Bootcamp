@@ -10,7 +10,7 @@ The project was a blog focused on knowledge sharing between different discipline
 
 - On the other side, the **front-end** was created with _React JS_ including conditional rendering due to authentication. The structure of the project was focused in React components trying to reach atomic-design to ensure scalability. The tools or libraries for this project were: _Axios_, _Bootstrap_, _Heroku_ or _React_.
 
-The blog had _authentication_ and different roles according to the discipline chosen by the user and it was implemented features like: _creating_, _saving_, _editing_ or _deleting articles or comments_ so the users could share their thoughts or build relations.
+- The blog had _authentication_ and different roles according to the discipline chosen by the user and it was implemented features like: _creating_, _saving_, _editing_ or _deleting articles or comments_ so the users could share their thoughts or build relations.
 
 As soon as I realized that it was a lot of ignorance between the projects of different bootcamps despite of sharing a common field; I thought it was a beneficial to build a plattform to make an approach between these fields.
 The project was made by _Carlos García_.
@@ -18,32 +18,33 @@ The project was made by _Carlos García_.
 ## Technologies
 
 <section>
-    <img align="left" alt="MongoDB" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
-    <img align="left" alt="Express" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
-    <img align="left" alt="ReactJS" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
-    <img align="left" alt="NodeJS" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
-    <img align="left" alt="JavaScript" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
-    <img align="left" alt="HTML5" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
-    <img align="left" alt="CSS3" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
-    <img align="left" alt="Git" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
+    <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
+    <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
+    <img align="left" alt="ReactJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
+    <img align="left" alt="NodeJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
+    <img align="left" alt="JavaScript" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
+    <img align="left" alt="HTML5" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
+    <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
+    <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
 </section>
 
+</br>
+
 <section>
-    <img align="left" alt="Postman" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
-    <img align="left" alt="SaSS" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
-    <img align="left" alt="Bootstrap" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
-    <img align="left" alt="Heroku" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
-    <img align="left" alt="GitHub" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
-    <img align="left" alt="Visual Studio Code" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
-    <img align="left" alt="Terminal" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
+    <img align="left" alt="Postman" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
+    <img align="left" alt="SaSS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
+    <img align="left" alt="Bootstrap" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
+    <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
+    <img align="left" alt="GitHub" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
+    <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
+    <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
 </section>
+
+</br>
 
 ## Project
 
 It was crucial for the development to maintain a simple components so as they could be reused or accessed easily. I found that it was one of the most important tasks to maintain an efficient and clear state with React. Besides, the time management gained more importance while working individually.
-
-<!-- ![project3-DotEnv_image01](/path/to/train.jpg) -->
-<!-- ![project3-DotEnv_image02](/path/to/train.jpg) -->
 
 ## Endpoints
 
@@ -210,6 +211,6 @@ It was crucial for the development to maintain a simple components so as they co
 
 ## Installation
 
-- 1. Clone or download the repository
-- 2. Install the dependencies: `npm i`
-- 3. Open the archive: `app.js`
+1. Clone or download the repository
+2. Install the dependencies: `npm i`
+3. Open the archive: `app.js`

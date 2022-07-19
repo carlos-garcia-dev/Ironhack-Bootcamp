@@ -153,6 +153,6 @@ One of the _pain points_ of the project was the creation of the building a clear
 
 ## Installation
 
-- 1. Clone or download the repository
-- 2. Install the dependencies: `npm i`
-- 3. Open the archive: `app.js`
+1. Clone or download the repository
+2. Install the dependencies: `npm i`
+3. Open the archive: `app.js`
