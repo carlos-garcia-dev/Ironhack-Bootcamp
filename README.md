@@ -1,6 +1,8 @@
 # Ironhack Bootcamp
 
-<img src="https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png" alt="Ironhack" style="justify-center" height="200px"/>
+<main align="center">
+    <img src="https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png" alt="Ironhack"  height="300px"/>
+</main>
 
 ## Overview
 
@@ -25,6 +27,8 @@ Compilation of all the projects made at the _Full-Stack Web Programming Bootcamp
     <img align="left" alt="Git" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
 </section>
 
+</br>
+
 <section>
     <img align="left" alt="Postman" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
     <img align="left" alt="SaSS" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
@@ -35,6 +39,8 @@ Compilation of all the projects made at the _Full-Stack Web Programming Bootcamp
     <img align="left" alt="Visual Studio Code" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
     <img align="left" alt="Terminal" width="56px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
 </section>
+
+</br>
 
 ### Projects
 
