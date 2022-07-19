@@ -17,9 +17,9 @@ First project we finished at the module 1 in Ironhack its main purpose was to ge
 It was a remake of a top-down shooter videogame which it is focused on constant action. The MVP - Minimun Viable Product, we did in one week included an dynamic counter for the score and lives, besides an special attack reward.
 The project was made by _Carlos Dávila_ and _Carlos García_.
 
-## Project
-
 ![project1-Game_00](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_00.jpg)
+
+## Project
 
 One of the pain points of the project was to solve the difficulty of how the shots are oriented and follow and specific direction according to the mouse-click. It was crucial for a better experience and more natural collisions.
 
@@ -27,7 +27,12 @@ One of the pain points of the project was to solve the difficulty of how the sho
 
 ### Example
 
-![project1-Game_animation](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_animation.gif)
+<img
+    alt="Game_animation"
+    width="100%"
+    src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_animation.gif" />
+
+![project1-Game_animation]()
 
 ## Controls
 

@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Compilation of all the projects made at the **Full-Stack Web Programming Bootcamp** at Ironhack. The bootcamp was structured on _three modules_ with daily tasks and deliveries following deadlines. Besides, _three main projects_ were made at the end of each module practizing pair-programming or working in groups. The last one was possible to developing it individually. Each module was focused in one area of the language:
+Compilation of all the projects made at the **Full-Stack Web Programming Bootcamp** at Ironhack. It was structured on _three modules_ with daily tasks and deliveries following deadlines. Besides, _three main projects_ were made at the end of each module practizing pair-programming or working in groups. The last one was possible to developing it individually. Each module was focused in one area of the language:
 
 1. **Module 1 - Vanilla JS**: Object Oriented Programming - OOP, Class programming, functional programming with JavaScript and algorithms. Remake of a videogame with OOP in JavaScript ES6+. Bootstrap, responsive apps, Vanilla JS, JS algorithms & Canva.
 
@@ -65,83 +65,80 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
 #### Module 1 - Vanilla JS
 
 ```bash
-    📁 module1/
-        ├── 📁  week1
-        |   │── 📁 day1
-        |   |   └──lab-css-instagram-clone
-        |   │── 📁 day2
-        |   |   │──lab-bootstrap-cloning-revera
-        |   |   └──lab-css-spotify-clone
-        |   │── 📁 day3
-        |   |   └──lab-css-flexbox-slack
-        |   │── 📁 day4
-        |   |   │──lab-javascript-basic-algorithms
-        |   |   │──lab-javascript-clue
-        |   |   └──lab-javascript-functions-and-arrays
-        |   └── 📁 day5
-        |       │──lab-dom-ironhack-cart
-        |       └──lab-javascript-vikings
-        |
-        │── 📁 week2
-        |   │── 📁 day1
-        |   |   └──lab-javascript-greatest-movies
-        |   │── 📁 day2
-        |   |   │──lab-javascript-chronometer
-        |   |   └──lab-javascript-memory-game
-        |   │── 📁 day3
-        |   |   │──lab-javascript-advanced-algorithms
-        |   |   └──lab-javascript-koans
-        |   └── 📁 day4
-        |       └──lab-canvas-race-car
-        |
+├── 📁 module1/
+|    ├── 📁  week1
+|    |   │── 📁 day1
+|    |   |   └──lab-css-instagram-clone
+|    |   │── 📁 day2
+|    |   |   │──lab-bootstrap-cloning-revera
+|    |   |   └──lab-css-spotify-clone
+|    |   │── 📁 day3
+|    |   |   └──lab-css-flexbox-slack
+|    |   │── 📁 day4
+|    |   |   │──lab-javascript-basic-algorithms
+|    |   |   │──lab-javascript-clue
+|    |   |   └──lab-javascript-functions-and-arrays
+|    |   └── 📁 day5
+|    |       │──lab-dom-ironhack-cart
+|    |       └──lab-javascript-vikings
+|    |
+|    └── 📁 week2
+|        │── 📁 day1
+|        |   └──lab-javascript-greatest-movies
+|        │── 📁 day2
+|        |   │──lab-javascript-chronometer
+|        |   └──lab-javascript-memory-game
+|        │── 📁 day3
+|        |   │──lab-javascript-advanced-algorithms
+|        |   └──lab-javascript-koans
+|        └── 📁 day4
+|               └──lab-canvas-race-car
 ```
 
 #### Module 2 - Back-end
 
 ```bash
-        |
-    📁 module2/
-        ├── 📁 week4
-        |   │── 📁 day1
-        |   |   │──lab-es6-javascript-koans
-        |   |   └──lab-mongo-crunchbase-1
-        |   │── 📁 day2
-        |   |   └──lab-ironbeers
-        |   │── 📁 day3
-        |   |   └──lab-mongoose-recipes
-        |   │── 📁 day4
-        |   |   │──lab-express-cinema
-        |   |   └──lab-express-spotify
-        |   └── 📁 day5
-        |       │──lab-express-basic-auth
-        |       └──lab-mongoose-movies
-        |
-        ├── 📁 week5
-        |   │── 📁 day1
-        |   |   │──lab-authentication-with-passport
-        |   |   └──lab-passport-roles
-        |   │── 📁 day2
-        |   |   └──lab-ajax-crud-characters
-        |   └── 📁 day4
-        |       │──lab-express-cinema
-        |       └──lab-coffee-and-books
-        |
+├── 📁 module2/
+|    ├── 📁 week4
+|    |   │── 📁 day1
+|    |   |   │──lab-es6-javascript-koans
+|    |   |   └──lab-mongo-crunchbase-1
+|    |   │── 📁 day2
+|    |   |   └──lab-ironbeers
+|    |   │── 📁 day3
+|    |   |   └──lab-mongoose-recipes
+|    |   │── 📁 day4
+|    |   |   │──lab-express-cinema
+|    |   |   └──lab-express-spotify
+|    |   └── 📁 day5
+|    |       │──lab-express-basic-auth
+|    |       └──lab-mongoose-movies
+|    |
+|    └── 📁 week5
+|        │── 📁 day1
+|        |   │──lab-authentication-with-passport
+|        |   └──lab-passport-roles
+|        │── 📁 day2
+|        |   └──lab-ajax-crud-characters
+|        └── 📁 day4
+|            │──lab-express-cinema
+|            └──lab-coffee-and-books
 ```
 
 #### Module 3 - Front-end
 
 ```bash
-        |
-    📁 module3/
-        └── 📁 week7
-            │── 📁 day1
-            |   │──lab-bulma-components
-            |   └──lab-hello-ironhack
-            │── 📁 day2
-            |   └──lab-react-ironcontacts
-            │── 📁 day3
-            |   └──lab-wiki-countries
-            └── 📁 day4
-                |──lab-react-ironbeers
-                └──lab-thinking-in-react
+|
+└── 📁 module3/
+    └── 📁 week7
+        │── 📁 day1
+        |   │──lab-bulma-components
+        |   └──lab-hello-ironhack
+        │── 📁 day2
+        |   └──lab-react-ironcontacts
+        │── 📁 day3
+        |   └──lab-wiki-countries
+        └── 📁 day4
+            |──lab-react-ironbeers
+            └──lab-thinking-in-react
 ```
