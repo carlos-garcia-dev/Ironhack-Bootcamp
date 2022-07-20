@@ -31,27 +31,21 @@ The project was made by _Maria Luisa Santos_ and _Carlos García_.
 ## Technologies
 
 <section align="center" sytle="padding-top: 20%">
-    <img align="left"   style="float: left; margin-right: 2px;" alt="MongoDB" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Express" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="ReactJS" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="NodeJS" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="JavaScript" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="HTML5" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="CSS3" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Git" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Handlebars" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/16.Handlebars.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Bootstrap" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Heroku" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="GitHub" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Visual Studio Code" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
-    <img align="left"   style="float: left; margin-right: 4px;" alt="Terminal" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="MongoDB" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Express" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="ReactJS" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="NodeJS" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="JavaScript" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="HTML5" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="CSS3" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Git" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Handlebars" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/16.Handlebars.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Bootstrap" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Heroku" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="GitHub" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Visual Studio Code" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
+    <img align="left"   style="float: left; margin-right: 4px;" alt="Terminal" width="36px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
 </section>
-
-
-
-
-
-
 
 ## Project
 
