@@ -26,7 +26,8 @@ It was the _second project_ of the bootcamp and it was made at the end of the se
 The website had _authentication service_ and different roles according to the relation chosen by the user and it had features like: _creating_, _saving_, _editing_ or _deleting_ events.
 
 When we realized that during the confinment appeared many streamed concerts or events we thought it was a good idea to develope a service so as user could save them in order to continue supporting their favourite artists. We found very appropiate to create a plattform where: users, artists and promoters could be benefited or subsist during that exceptional times.
-The project was made by _Maria Luisa Santos_ and _Carlos García_.
+
+- The project was made by _Maria Luisa Santos_ and _Carlos García_.
 
 ## Technologies
 
