@@ -19,55 +19,50 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
 
 ## Technologies
 
-<div align="center">
-    <p align="center">
-        <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
-        <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
-        <img align="left" alt="ReactJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
-        <img align="left" alt="NodeJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
-        <img align="left" alt="JavaScript" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
-        <img align="left" alt="HTML5" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
-        <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
-        <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
-    </p>
-</div>
+<section>
+    <img align="left"   style="float: left; margin-right: 10px;" alt="MongoDB" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Express" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="ReactJS" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="NodeJS" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="JavaScript" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="HTML5" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="CSS3" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Git" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
+</section>
 
 </br>
 
-<div>
-    <p align="center">
-        <img align="left" alt="Postman" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
-        <img align="left" alt="SaSS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
-        <img align="left" alt="Handlebars" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/16.Handlebars.png" />
-        <img align="left" alt="Bootstrap" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
-        <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
-        <img align="left" alt="GitHub" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
-        <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
-        <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
-    </p>
-</div>
+<section align="center" sytle="padding-top: 4%">
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Postman" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="SaSS" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Handlebars" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/16.Handlebars.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Bootstrap" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Heroku" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="GitHub" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Visual Studio Code" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
+    <img align="left"   style="float: left; margin-right: 10px;" alt="Terminal" width="24px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
+</section>
 
 </br>
 
-### Projects
+## Projects
 
 Besides, _three main projects_ were made at the end of each module practizing pair-programming or working in groups. The last one was possible to developing it individually.
 
 </br>
 
 ```shell
-|
- 📁 projects
-├── 📁 project1-Videogame   - Videogame remake built with Vanilla JavaScript ES6+, OOP and Canvas
-├── 📁 project2-LineApp     - CRUD Website about music streaming and conditional rendering with Handlebars
-└── 📁 project3-DotEnv      - Full-Stack Single Page App about tech articles with a noSQL database and roles
+📁 projects
+  ├── 📁 project1-Videogame - Videogame remake
+  ├── 📁 project2-LineApp   - CRUD music stream app
+  └── 📁 project3-DotEnv    - SPA blog Full-Stack
 ```
 
 </br>
 
-1. [project1-Videogame](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project1-Videogame)
-2. [project2-LineApp](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project2-LineApp)
-3. [project3-DotEnv](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project3-DotEnv)
+1. [project1-Videogame](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project1-Videogame) Videogame remake built with Vanilla JavaScript ES6+, OOP and Canvas
+2. [project2-LineApp](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project2-LineApp) CRUD Website about music streaming and conditional rendering with Handlebars
+3. [project3-DotEnv](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project3-DotEnv) Full-Stack Single Page App about tech articles with a noSQL database and roles
 
 </br>
 
@@ -81,7 +76,7 @@ Object Oriented Programming - OOP, Class programming, functional programming wit
 
 ```bash
 |
-└── 📁 module1/
+└── 📁 module1
     |   │── 📁 day1
     |   |   └──lab-css-instagram-clone
     ├── 📁  week1
@@ -117,7 +112,7 @@ Full-Stack app with conditional rendering with Handlebars & noSQL database. Expr
 
 ```bash
 |
-├── 📁 module2/
+├── 📁 module2
 |    ├── 📁 week4
 |    |   │── 📁 day1
 |    |   |   │──lab-es6-javascript-koans
@@ -150,7 +145,7 @@ Creation of SPA´s Full-stack CRUD including noSQL databases. ReactJS, SCSS, & c
 
 ```bash
 |
-└── 📁 module3/
+└── 📁 module3
     └── 📁 week7
         │── 📁 day1
         |   │──lab-bulma-components

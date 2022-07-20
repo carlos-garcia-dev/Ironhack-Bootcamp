@@ -39,7 +39,7 @@ The project was made by _Carlos García_.
     </p>
 </div>
 
-</br>
+<br><br/>
 
 <div>
     <p align="center">    
