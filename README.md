@@ -139,8 +139,7 @@ Full-Stack app with conditional rendering with Handlebars & noSQL database. Expr
 Creation of SPA´s Full-stack CRUD including noSQL databases. ReactJS, SCSS, & client side rendering with an API Rest back-end.
 
 ```bash
-|
-└── 📁 module3
+📁 module3
     └── 📁 week7
         │── 📁 day1
         |   │──lab-bulma-components
