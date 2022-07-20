@@ -19,7 +19,7 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
 
 ## Technologies
 
-<di align="center">
+<div align="center">
     <p align="center">
         <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
         <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
@@ -55,27 +55,19 @@ Besides, _three main projects_ were made at the end of each module practizing pa
 
 </br>
 
-<div align="center">
-
 ```shell
-    |
+|
  📁 projects
-    ├── 📁 project1-Videogame   - Videogame remake built with Vanilla JavaScript ES6+, OOP and Canvas
-    ├── 📁 project2-LineApp     - CRUD Website about music streaming and conditional rendering with Handlebars
-    └── 📁 project3-DotEnv      - Full-Stack Single Page App about tech articles with a noSQL database and roles
+├── 📁 project1-Videogame   - Videogame remake built with Vanilla JavaScript ES6+, OOP and Canvas
+├── 📁 project2-LineApp     - CRUD Website about music streaming and conditional rendering with Handlebars
+└── 📁 project3-DotEnv      - Full-Stack Single Page App about tech articles with a noSQL database and roles
 ```
 
-</div>
-
 </br>
-
-<div align="center">
 
 1. [project1-Videogame](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project1-Videogame)
 2. [project2-LineApp](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project2-LineApp)
 3. [project3-DotEnv](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project3-DotEnv)
-
-</div>
 
 </br>
 
@@ -89,34 +81,34 @@ Object Oriented Programming - OOP, Class programming, functional programming wit
 
 ```bash
 |
-├── 📁 module1/
-|    ├── 📁  week1
-|    |   │── 📁 day1
-|    |   |   └──lab-css-instagram-clone
-|    |   │── 📁 day2
-|    |   |   │──lab-bootstrap-cloning-revera
-|    |   |   └──lab-css-spotify-clone
-|    |   │── 📁 day3
-|    |   |   └──lab-css-flexbox-slack
-|    |   │── 📁 day4
-|    |   |   │──lab-javascript-basic-algorithms
-|    |   |   │──lab-javascript-clue
-|    |   |   └──lab-javascript-functions-and-arrays
-|    |   └── 📁 day5
-|    |       │──lab-dom-ironhack-cart
-|    |       └──lab-javascript-vikings
-|    |
-|    └── 📁 week2
-|        │── 📁 day1
-|        |   └──lab-javascript-greatest-movies
-|        │── 📁 day2
-|        |   │──lab-javascript-chronometer
-|        |   └──lab-javascript-memory-game
-|        │── 📁 day3
-|        |   │──lab-javascript-advanced-algorithms
-|        |   └──lab-javascript-koans
-|        └── 📁 day4
-|               └──lab-canvas-race-car
+└── 📁 module1/
+    |   │── 📁 day1
+    |   |   └──lab-css-instagram-clone
+    ├── 📁  week1
+    |   │── 📁 day2
+    |   |   │──lab-bootstrap-cloning-revera
+    |   |   └──lab-css-spotify-clone
+    |   │── 📁 day3
+    |   |   └──lab-css-flexbox-slack
+    |   │── 📁 day4
+    |   |   │──lab-javascript-basic-algorithms
+    |   |   │──lab-javascript-clue
+    |   |   └──lab-javascript-functions-and-arrays
+    |   └── 📁 day5
+    |       │──lab-dom-ironhack-cart
+    |       └──lab-javascript-vikings
+    |
+    └── 📁 week2
+        │── 📁 day1
+        |   └──lab-javascript-greatest-movies
+        │── 📁 day2
+        |   │──lab-javascript-chronometer
+        |   └──lab-javascript-memory-game
+        │── 📁 day3
+        |   │──lab-javascript-advanced-algorithms
+        |   └──lab-javascript-koans
+        └── 📁 day4
+               └──lab-canvas-race-car
 ```
 
 #### Module 2 - Back-end
