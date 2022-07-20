@@ -9,7 +9,7 @@
   <strong>Full-stack music plattform for streamings and events</strong>
 </div>
 
-![project2-LineApp_main](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/project2-LineApp_00.jpg)
+![project2-LineApp_main](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project2-LineApp/LineApp_00.jpg)
 
 </br>
 
@@ -30,20 +30,22 @@ The project was made by _Maria Luisa Santos_ and _Carlos García_.
 
 ## Technologies
 
-<p align="center">
-    <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
-    <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
-    <img align="left" alt="NodeJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
-    <img align="left" alt="JavaScript" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
-    <img align="left" alt="Handlebars" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/16.Handlebars.png" />
-    <img align="left" alt="HTML5" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
-    <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
-    <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
-    <img align="left" alt="GitHub" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
-    <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
-    <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
-    <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
-</p>
+<div>
+    <p align="center">
+        <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
+        <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
+        <img align="left" alt="NodeJS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
+        <img align="left" alt="JavaScript" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
+        <img align="left" alt="Handlebars" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/16.Handlebars.png" />
+        <img align="left" alt="HTML5" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
+        <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
+        <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
+        <img align="left" alt="GitHub" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
+        <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
+        <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
+        <img align="left" alt="Heroku" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
+    </p>
+</div>
 
 ## Project
 

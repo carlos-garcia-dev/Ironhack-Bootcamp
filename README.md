@@ -19,7 +19,7 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
 
 ## Technologies
 
-<section>
+<di align="center">
     <p align="center">
         <img align="left" alt="MongoDB" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
         <img align="left" alt="Express" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
@@ -30,11 +30,11 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
         <img align="left" alt="CSS3" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
         <img align="left" alt="Git" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
     </p>
-</section>
+</div>
 
 </br>
 
-<section>
+<div>
     <p align="center">
         <img align="left" alt="Postman" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
         <img align="left" alt="SaSS" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
@@ -45,7 +45,7 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
         <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
         <img align="left" alt="Terminal" width="48px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
     </p>
-</section>
+</div>
 
 </br>
 
@@ -53,18 +53,29 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
 
 Besides, _three main projects_ were made at the end of each module practizing pair-programming or working in groups. The last one was possible to developing it individually.
 
+</br>
+
+<div align="center">
+
 ```shell
+    |
  📁 projects
     ├── 📁 project1-Videogame   - Videogame remake built with Vanilla JavaScript ES6+, OOP and Canvas
     ├── 📁 project2-LineApp     - CRUD Website about music streaming and conditional rendering with Handlebars
     └── 📁 project3-DotEnv      - Full-Stack Single Page App about tech articles with a noSQL database and roles
 ```
 
+</div>
+
 </br>
+
+<div align="center">
 
 1. [project1-Videogame](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project1-Videogame)
 2. [project2-LineApp](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project2-LineApp)
 3. [project3-DotEnv](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp/tree/main/project3-DotEnv)
+
+</div>
 
 </br>
 
@@ -77,6 +88,7 @@ Each module was focused in one area of the language
 Object Oriented Programming - OOP, Class programming, functional programming with JavaScript and algorithms. Remake of a videogame with OOP in JavaScript ES6+. Bootstrap, responsive apps, Vanilla JS, JS algorithms & Canva.
 
 ```bash
+|
 ├── 📁 module1/
 |    ├── 📁  week1
 |    |   │── 📁 day1
@@ -112,6 +124,7 @@ Object Oriented Programming - OOP, Class programming, functional programming wit
 Full-Stack app with conditional rendering with Handlebars & noSQL database. Express, NodeJS, & MongoDB in CRUD applications. Use of AJAX, Passport & Handlebars.
 
 ```bash
+|
 ├── 📁 module2/
 |    ├── 📁 week4
 |    |   │── 📁 day1

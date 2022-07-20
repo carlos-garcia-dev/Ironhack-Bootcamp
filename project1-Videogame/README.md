@@ -1,10 +1,8 @@
 <div align="center">
-    <a href="https://www.ironhack.com/">
-        <img 
-            alt="Ironhack"
-            width="200px"
-            src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_logo.png" />
-    </a>
+    <img 
+        alt="Ironhack"
+        width="300px"
+        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_logo.png" />
 </div>
 <div align="center">
   <h1>Videogame - Module 1</h1>
@@ -25,8 +23,6 @@ The project was made by _Carlos Dávila_ and _Carlos García_.
 
 One of the pain points of the project was to solve the difficulty of how the shots are oriented and follow and specific direction according to the mouse-click. It was crucial for a better experience and more natural collisions.
 
-![project1-Game_01](https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_01.jpg)
-
 ### Example
 
 <img
@@ -38,11 +34,6 @@ One of the pain points of the project was to solve the difficulty of how the sho
 
 ## Controls
 
-- Press **Enter** to Play
-- Move your mouse to aim and **left-click** to shoot
-- **WASD** keys to move in every direction
-- Press **Space** bar for a 360° attack
-
 |    Control     |          Action           |
 | :------------: | :-----------------------: |
 |   **Enter**    |      Start the game       |
@@ -53,6 +44,10 @@ One of the pain points of the project was to solve the difficulty of how the sho
 |     **S**      |         Move down         |
 |     **D**      |        Move right         |
 
+- Press **Enter** to Play
+- Move your mouse to aim and **left-click** to shoot
+- **WASD** keys to move in every direction
+- Press **Space** bar for a 360° attack
 - **\*** Each 25 kills you get one 360 attack
 
 ## Archives organization
