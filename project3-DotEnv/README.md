@@ -29,21 +29,21 @@ The project was made by _Carlos García_.
 ## Technologies
 
 <section align="center" sytle="padding-top: 20%; padding-bottom: 20%">
-    <img align="left"   style="float: left; margin-right: 2px;" alt="MongoDB" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Express" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="ReactJS" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="NodeJS" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="JavaScript" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="HTML5" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="CSS3" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Git" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Postman" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="SaSS" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Bootstrap" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Heroku" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="GitHub" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
-    <img align="left"   style="float: left; margin-right: 2px;" alt="Visual Studio Code" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
-    <img align="left"   style="float: left; margin-right: 4px;" alt="Terminal" width="34px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="MongoDB" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Express" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="ReactJS" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="NodeJS" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/04.NodeJS.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="JavaScript" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/05.JavaScript.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="HTML5" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="CSS3" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Git" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Postman" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="SaSS" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Bootstrap" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/08.Bootstrap.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Heroku" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/21.Heroku.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="GitHub" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
+    <img align="left"   style="float: left; margin-right: 2px;" alt="Visual Studio Code" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
+    <img align="left"   style="float: left; margin-right: 4px;" alt="Terminal" width="40px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
 </section>
 
 </br>
