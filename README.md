@@ -19,7 +19,7 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
 
 ## Technologies
 
-<section align="center" sytle="padding-top: 20%">
+<section align="center" sytle="padding-top: 20%; padding-bottom: 20%">
     <img align="left"   style="float: left; margin-right: 2px;" alt="MongoDB" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
     <img align="left"   style="float: left; margin-right: 2px;" alt="Express" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
     <img align="left"   style="float: left; margin-right: 2px;" alt="ReactJS" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
