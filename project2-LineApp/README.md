@@ -1,8 +1,8 @@
 <div align="center">
     <img 
         alt="project2-LineApp_main"
-        width="200px"
-        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project3-DotEnv/project3-DotEnv_logo.png" />
+        width="250px"
+        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project2-LineApp/LineApp_logo.png" />
 </div>
 <div align="center">
   <h1>LineApp - Module 2</h1>

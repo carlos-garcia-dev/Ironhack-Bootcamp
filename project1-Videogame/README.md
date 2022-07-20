@@ -3,7 +3,7 @@
         <img 
             alt="Ironhack"
             width="200px"
-            src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/00-Bootcamp/ironhack-logo.png" />
+            src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_logo.png" />
     </a>
 </div>
 <div align="center">

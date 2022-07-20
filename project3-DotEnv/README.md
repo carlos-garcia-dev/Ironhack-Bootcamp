@@ -2,7 +2,7 @@
     <img 
         alt="project3-DotEnv_main"
         width="200px"
-        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project3-DotEnv/project3-DotEnv_00.jpg" />
+        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project3-DotEnv/DotEnv_logo.png" />
 </div>
 <div align="center">
   <h1>DotEnv - Module 3</h1>
