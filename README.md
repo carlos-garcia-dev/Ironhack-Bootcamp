@@ -19,7 +19,7 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
 
 ## Technologies
 
-<section>
+<section align="center" sytle="padding-top: 20%">
     <img align="left"   style="float: left; margin-right: 4px;" alt="MongoDB" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
     <img align="left"   style="float: left; margin-right: 4px;" alt="Express" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
     <img align="left"   style="float: left; margin-right: 4px;" alt="ReactJS" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
@@ -28,11 +28,6 @@ Compilation of all the projects made at the **Full-Stack Web Programming Bootcam
     <img align="left"   style="float: left; margin-right: 4px;" alt="HTML5" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/06.HTML5.png" />
     <img align="left"   style="float: left; margin-right: 4px;" alt="CSS3" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/07.CSS3.png" />
     <img align="left"   style="float: left; margin-right: 4px;" alt="Git" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/17.Git.png" />
-</section>
-
-</br>
-
-<section align="center" sytle="padding-top: 20%">
     <img align="left"   style="float: left; margin-right: 4px;" alt="Postman" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/22.Postman.png" />
     <img align="left"   style="float: left; margin-right: 4px;" alt="SaSS" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/15.SaSS.png" />
     <img align="left"   style="float: left; margin-right: 4px;" alt="Handlebars" width="30px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/16.Handlebars.png" />
