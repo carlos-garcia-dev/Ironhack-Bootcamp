@@ -17,14 +17,6 @@
 
 Compilation of all the projects made at the **Full-Stack Web Programming Bootcamp** at Ironhack. It was structured on _three modules_ with daily tasks and deliveries following deadlines.
 
-<!--
-<a>
-    <img
-        alt="Ironhack"
-        width="100%"
-        src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/00-Bootcamp/ironhack-bootcamp.jpeg" />
-</a> -->
-
 ## Technologies
 
 <section align="center" sytle="padding-top: 20%; padding-bottom: 20%">

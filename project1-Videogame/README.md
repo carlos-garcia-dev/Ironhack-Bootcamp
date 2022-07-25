@@ -31,8 +31,6 @@ One of the pain points of the project was to solve the difficulty of how the sho
     width="100%"
     src="https://github.com/carlos-garcia-dev/Ironhack-Bootcamp-Images/blob/main/project1-Videogame/Game_animation.gif" />
 
-![project1-Game_animation]()
-
 ## Controls
 
 |    Control     |          Action           |

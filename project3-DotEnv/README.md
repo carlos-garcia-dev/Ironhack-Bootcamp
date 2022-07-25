@@ -29,7 +29,7 @@ As soon as I realized that it was a lot of ignorance between the projects of dif
 
 ## Technologies
 
-<section align="center" sytle="padding-top: 20%; padding-bottom: 20%">
+<div align="center" sytle="padding-top:20px;padding-bottom:20px">
     <img align="left"   style="float: left; margin-right: 2px;" alt="MongoDB" width="44px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/01.MongoDB.png" />
     <img align="left"   style="float: left; margin-right: 2px;" alt="Express" width="44px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/02.Express.png" />
     <img align="left"   style="float: left; margin-right: 2px;" alt="ReactJS" width="44px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/03.ReactJS.png" />
@@ -45,7 +45,7 @@ As soon as I realized that it was a lot of ignorance between the projects of dif
     <img align="left"   style="float: left; margin-right: 2px;" alt="GitHub" width="44px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/18.GitHub.png" />
     <img align="left"   style="float: left; margin-right: 2px;" alt="Visual Studio Code" width="44px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/19.VSCode.png" />
     <img align="left"   style="float: left; margin-right: 4px;" alt="Terminal" width="44px" src="https://github.com/carlos-garcia-dev/carlos-garcia-dev-images/blob/master/images/png/20.Terminal.png" />
-</section>
+</div>
 
 </br>
 
